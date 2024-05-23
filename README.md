@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Paulo Roberto Gomes Abreu Filho</h1>
 <h3 align="center">Desenvolvedor Full-Stack tendo como principal experiência Flutter e ReactJS</h3>
 
-- 🔭 Trabalhado no [LAPISCO](https://lapisco.ifce.edu.br/)
+- 🔭 Trabalhado em [LISIA](https://www.instagram.com/lisia.grupodepesquisa/)
 
 - 🌱 Estou atualmente aprendendo **Python, NestJS e Devops**
 
