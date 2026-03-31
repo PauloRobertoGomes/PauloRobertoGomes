@@ -9,13 +9,9 @@
 <h1 align="center">Olá, sou o Paulo! 🚀</h1>
 
 ###
-
-<br clear="both">
-
 <h3 align="center">Especialista em Flutter, React Native e arquiteturas robustas em Node.js.<br>Vamos trocar uma ideia sobre tech? Me encontre nas redes abaixo!</h3>
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="12" />
