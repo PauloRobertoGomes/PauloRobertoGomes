@@ -47,10 +47,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulorobertogomes&show_icons=true&theme=dark&layout=compact" alt="Top Langs" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=paulorobertogomes&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=PauloRobertoGomes&show_icons=true&theme=dark&layout=compact" alt="Top Langs" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PauloRobertoGomes&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=paulorobertogomes&theme=dark" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=PauloRobertoGomes&theme=dark" alt="GitHub Streak" />
 </p>
