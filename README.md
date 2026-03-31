@@ -1,27 +1,80 @@
-<h1 align="center">Olá 👋, me chamo Paulo Roberto Gomes Abreu Filho</h1>
-<h3 align="center">Desenvolvedor Full-Stack tendo como principal experiência Flutter e ReactJS</h3>
+# Paulo Roberto Gomes Abreu Filho
 
-- 🔭 Trabalhado em [Co.Urban](https://www.linkedin.com/company/co-urban/posts/?feedView=all)
+Desenvolvedor com foco principal em **Mobile**, especializado em **React Native** e **Flutter**, criando aplicações escaláveis, performáticas e com ótima experiência de usuário.
 
-- 🌱 Estou atualmente aprendendo **Python, NestJS e Devops**
+---
 
-- 💬 Pergunte-me sobre **Flutter e ReactJS**
+## 👨‍💻 Sobre mim
 
-- 📫 Me contate por **paulo.roberto.gomes.2001@gmail.com**
+- 📱 Foco em desenvolvimento Mobile (React Native e Flutter)
+- 🔭 Atuação em [Co.Urban](https://www.linkedin.com/company/co-urban/posts/?feedView=all)
+- 🌱 Atualmente estudando **Python, NestJS e DevOps**
+- 💬 Posso ajudar com **React Native, Flutter e arquitetura de apps mobile**
+- 📫 Contato: **paulo.roberto.gomes.2001@gmail.com**
+- ⚡ Curiosidade: tenho 2 gatinhos
 
-- ⚡ Fato Curioso **Tenho 2 gatinhos**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🧰 Stack principal
+
+### Mobile
+- React Native
+- Flutter
+- Dart
+
+### Front-end / Back-end
+- React.js
+- JavaScript / TypeScript
+- Node.js
+- NestJS
+- Express
+
+### Dados & Cloud
+- Firebase
+- PostgreSQL
+- Redis
+- Docker
+
+### Ferramentas
+- Git
+- Postman
+- Figma
+
+---
+
+## 🌐 Onde me encontrar
+
+- LinkedIn: [paulo-roberto-gomes-abreu](https://linkedin.com/in/paulo-roberto-gomes-abreu)
+- Instagram: [@prhollow_](https://instagram.com/prhollow_)
+- E-mail: [paulo.roberto.gomes.2001@gmail.com](mailto:paulo.roberto.gomes.2001@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
-<a href="https://linkedin.com/in/paulo-roberto-gomes-abreu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-roberto-gomes-abreu" height="30" width="40" /></a>
-<a href="https://instagram.com/prhollow_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prhollow_" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulorobertogomes&show_icons=true&theme=dark&locale=pt-br&layout=compact" alt="Top Langs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulorobertogomes&show_icons=true&theme=dark&locale=pt-br" alt="GitHub Stats" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulorobertogomes&show_icons=true&theme=dark&locale=en&layout=compact" alt="paulorobertogomes" /></p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulorobertogomes&theme=dark" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulorobertogomes&show_icons=true&theme=dark&locale=en" alt="paulorobertogomes" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulorobertogomes&" alt="paulorobertogomes" /></p>
+## ❓ Perguntas para deixar o README ainda mais preciso
+
+1. Qual título profissional você quer destacar (ex.: Mobile Developer, Software Engineer, etc.)?
+2. Você quer destacar mais **React Native**, mais **Flutter** ou ambos no mesmo peso?
+3. Quais projetos mobile você mais quer evidenciar (nome + link + impacto)?
+4. Quais métricas vale destacar (downloads, usuários, redução de crash, performance)?
+5. Você prefere oportunidades **CLT**, **freela**, **consultoria** ou **internacional remoto**?
+6. Quer incluir disponibilidade atual (aberto a propostas / não disponível)?
+7. Quais tecnologias você realmente usa no dia a dia e quer manter na stack?
+8. Deseja uma seção de certificações, cursos ou formação acadêmica?
+9. Quer uma versão bilíngue (PT/EN) no mesmo README?
+10. Quer remover Instagram e manter apenas contatos profissionais?
