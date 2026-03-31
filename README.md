@@ -50,7 +50,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PauloRobertoGomes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=PauloRobertoGomes&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=PauloRobertoGomes&theme=tokyonight" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PauloRobertoGomes&layout=compact&theme=tokyonight" height="150" alt="languages graph"  />
 </div>
 
 ###
