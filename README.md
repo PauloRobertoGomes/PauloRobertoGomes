@@ -41,16 +41,3 @@
 ### 🌐 Professional contact
 - LinkedIn: [paulo-roberto-gomes-abreu](https://linkedin.com/in/paulo-roberto-gomes-abreu)
 - E-mail: [paulo.roberto.gomes.2001@gmail.com](mailto:paulo.roberto.gomes.2001@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=PauloRobertoGomes&show_icons=true&theme=dark&layout=compact" alt="Top Langs" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PauloRobertoGomes&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=PauloRobertoGomes&theme=dark" alt="GitHub Streak" />
-</p>
